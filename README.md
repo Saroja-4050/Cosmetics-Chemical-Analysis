@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## Usage
 Run the Jupyter notebook:
 ```bash
-jupyter notebook cosmetics_analysis.ipynb
+jupyter notebook Code.ipynb
 ```
 
 ## Future Improvements
